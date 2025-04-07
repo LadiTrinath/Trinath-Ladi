@@ -75,6 +75,8 @@ $ cat certifications.txt
 |---|---|---|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=TrinathLadi&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrinathLadi&theme=radical) | ![Trophies](https://github-profile-trophy.vercel.app/?username=TrinathLadi&theme=onedark) |
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ---
 
 ## 🧠 Currently Learning & Exploring
